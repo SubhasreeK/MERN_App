@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "write_ur_DB_User",
+        "DB_PASSWORD":"write_ur_DB_Password",
+        "DB_NAME":"Places"
+    }
+}
+    
